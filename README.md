@@ -1,6 +1,8 @@
 # snake_game_arduino
 Writing snake game on arduino nano with ssd1306 128x164 display
 
+![snake_game](https://github.com/deshrit/snake_game_arduino/assets/59757711/94b58e72-2af4-4af4-900f-d769b4c529ae)
+
 ## video
 [video](https://www.youtube.com/shorts/5A0HsLjOQTo)
 
